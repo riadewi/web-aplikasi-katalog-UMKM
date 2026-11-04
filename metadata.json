@@ -1,0 +1,6 @@
+{
+  "name": "Warung Rasa Nusantara - Katalog Menu UMKM",
+  "description": "Katalog menu makanan dan minuman UMKM mobile-friendly dengan pemesanan langsung ke WhatsApp otomatis dan keranjang belanja interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
